@@ -1,0 +1,15 @@
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\bin\x64\Release\M7-Trainer.exe.config
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\bin\x64\Release\M7-Trainer.exe
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\bin\x64\Release\M7-Trainer.pdb
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\bin\x64\Release\Memory.xml
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\bin\x64\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\M7 Trainer.csproj.AssemblyReference.cache
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\M7 Trainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\Siao_is_a_potato.Trainer.resources
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\M7_Trainer.Properties.Resources.resources
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\M7 Trainer.csproj.GenerateResource.cache
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\M7 Trainer.csproj.CoreCompileInputs.cache
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\M7 Trainer.csproj.Fody.CopyLocal.cache
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\M7 Trainer.csproj.CopyComplete
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\M7-Trainer.exe
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\M7-Trainer.pdb

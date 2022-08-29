@@ -1,0 +1,30 @@
+C:\Users\drmoh\source\repos\Siao is a potato\Siao is a potato\bin\x64\Release\Siao is a potato.exe.config
+C:\Users\drmoh\source\repos\Siao is a potato\Siao is a potato\bin\x64\Release\Siao is a potato.exe
+C:\Users\drmoh\source\repos\Siao is a potato\Siao is a potato\bin\x64\Release\Siao is a potato.pdb
+C:\Users\drmoh\source\repos\Siao is a potato\Siao is a potato\bin\x64\Release\Memory.xml
+C:\Users\drmoh\source\repos\Siao is a potato\Siao is a potato\obj\x64\Release\Siao is a potato.csproj.AssemblyReference.cache
+C:\Users\drmoh\source\repos\Siao is a potato\Siao is a potato\obj\x64\Release\Siao is a potato.csproj.SuggestedBindingRedirects.cache
+C:\Users\drmoh\source\repos\Siao is a potato\Siao is a potato\obj\x64\Release\Siao_is_a_potato.Trainer.resources
+C:\Users\drmoh\source\repos\Siao is a potato\Siao is a potato\obj\x64\Release\Siao_is_a_potato.Properties.Resources.resources
+C:\Users\drmoh\source\repos\Siao is a potato\Siao is a potato\obj\x64\Release\Siao is a potato.csproj.GenerateResource.cache
+C:\Users\drmoh\source\repos\Siao is a potato\Siao is a potato\obj\x64\Release\Siao is a potato.csproj.CoreCompileInputs.cache
+C:\Users\drmoh\source\repos\Siao is a potato\Siao is a potato\obj\x64\Release\Siao is a potato.csproj.CopyComplete
+C:\Users\drmoh\source\repos\Siao is a potato\Siao is a potato\obj\x64\Release\Siao is a potato.exe
+C:\Users\drmoh\source\repos\Siao is a potato\Siao is a potato\obj\x64\Release\Siao is a potato.pdb
+C:\Users\drmoh\source\repos\Siao is a potato\Siao is a potato\bin\x64\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\drmoh\source\repos\Siao is a potato\Siao is a potato\obj\x64\Release\Siao is a potato.csproj.Fody.CopyLocal.cache
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\bin\x64\Release\Siao is a potato.exe.config
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\bin\x64\Release\Siao is a potato.exe
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\bin\x64\Release\Siao is a potato.pdb
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\bin\x64\Release\Memory.xml
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\bin\x64\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\Siao is a potato.csproj.AssemblyReference.cache
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\Siao is a potato.csproj.SuggestedBindingRedirects.cache
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\Siao_is_a_potato.Trainer.resources
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\Siao_is_a_potato.Properties.Resources.resources
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\Siao is a potato.csproj.GenerateResource.cache
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\Siao is a potato.csproj.CoreCompileInputs.cache
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\Siao is a potato.csproj.Fody.CopyLocal.cache
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\Siao is a potato.csproj.CopyComplete
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\Siao is a potato.exe
+C:\Users\drmoh\Desktop\Source\Siao is a potato\Siao is a potato\obj\x64\Release\Siao is a potato.pdb
